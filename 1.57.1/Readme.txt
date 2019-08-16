@@ -1,4 +1,4 @@
-﻿Updated Turkish translation pack.
+﻿Updated Evolution Skin Turkish translation pack for Direct Admin 1.58.0
 
 version=93441bc37db697910f53cbc4edff31a2cf143e17
 
@@ -19,4 +19,3 @@ Klasör sahibini ve izinlerini üst klasör ile aynı olacak şekilde ayarlamay�
 
 Daha önce herhangi bir Türkçe çeviri kullandıysanız ve yükleme sonrası tema çevirisinin güncellenmediğini düşünüyorsanız 
 /usr/local/directadmin/data/skins/evolution yolundaki login-tr.json ve tr.json dosyalarını silin. DirectAdmin panosunu yeniden yüklediğinizde bu dosyalar yeniden oluşturulur.
-
