@@ -1,13 +1,13 @@
-﻿Updated Evolution Skin Turkish translation pack for Direct Admin 1.58.2
+﻿Updated Evolution Skin Turkish translation pack for Direct Admin 1.59.1
 
-version=d309fc23d7eb1fe6d4987353fb678fc17511fcbe
+version=f2495d24f15b41652e3604215b518b3befa7f12e
 
 Both po and internal directory txt files are translated. Extract the zip file and upload the lang folder into
 /usr/local/directadmin/data/skins/evolution path, overwrite if files are exists.
 
 Don't forget to check directory owner and permissions as parent folder.
 
-If you used any Turkish translation before and feel the skin translation is not updated, delete login-tr.json and tr.json files from /usr/local/directadmin/data/skins/evolution path. They will recreate when you refresh DirectAdmin panel.
+If you used any Turkish translation before and feel the skin translation is not updated, delete login-tr.json and tr.json files from /usr/local/directadmin/data/skins/evolution path. They will recreated when you refresh DirectAdmin panel.
 
 
 ----- Turkish/Türkçe -----
