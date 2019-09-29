@@ -7,7 +7,7 @@ Both po and internal directory txt files are translated. Extract the zip file an
 
 Don't forget to check directory owner and permissions as parent folder.
 
-If you used any Turkish translation before and feel the skin translation is not updated, delete login-tr.json and tr.json files from /usr/local/directadmin/data/skins/evolution path. They will recreate when you refresh DirectAdmin panel.
+If you used any Turkish translation before and feel the skin translation is not updated, delete login-tr.json and tr.json files from /usr/local/directadmin/data/skins/evolution path. They will recreated when you refresh DirectAdmin panel.
 
 
 ----- Turkish/Türkçe -----
