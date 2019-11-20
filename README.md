@@ -1,7 +1,7 @@
 # directadmin-evolution-skin-turkish
 DirectAdmin Control Panel Evolution Skin Turkish Localization
 
-Both po and internal directory txt files are translated. 
+Both .po and internal directory .txt files are translated. 
 
 Installation instructions
 - Extract the zip file
@@ -15,7 +15,7 @@ If you used Turkish translation before and feel the skin translation is not upda
 
 ----- Turkish / Türkçe -----
 
-Hem po hem de internal klasöründeki metin dosyaları çevrilmiştir.
+Hem .po hem de internal klasöründeki .txt metin dosyaları çevrilmiştir.
 
 Kurmak için
 - Zip dosyasını ayıklayın 
